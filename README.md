@@ -15,4 +15,7 @@ to run tests, open new terminal and run
 Runs the App.test.tsx file
 
 
+![image](https://github.com/user-attachments/assets/8c174457-ae17-4c47-9c17-6d58581ada17)
+
+
 
